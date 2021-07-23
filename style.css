@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(to bottom, #65cffd, #00dcfe, #00e7f0, #00f0d5, #00f6ae, #76ea76, #acdb40, #d9c600, #ff9400, #ff4c4e, #ff0096, #dc0fe5);
+}
+
+
+.purple-color{
+    color: #8845f4;
+}
+
+.yellow-color{
+    color: #FF8C00;
+}
+
+h1{
+   font-size: 1.8em;}
+
+
+body {
+    font-family: sans-serif;
+    color: #777777;
+    line-height: 26px;
+}
+.half-width{
+        width: 50%;
+        float: left;
+   }
+.side-img{
+       width: 75%;
+       padding-left: 25px;
+   }
+.primary-btn{
+     color:white;
+     background-color: #8845f4;
+     padding: 13px 42px 13px 42px;
+     border-radius:20px;
+     text-decoration: none;
+    }
+.container{
+     padding-left: 5%;
+     display: inline-block;
+        }
+.experiences{
+    color: antiquewhite;
+    padding: 30px; 
+    margin: 30px; 
+    background-color: rgb( 0,144,255);
+    border-radius: 20px; 
+    border: 1px solid darkorange;
+}
+.experience-item{
+    padding: 10px;
+    border-left: 1px solid rgb(255, 255, 255,);
+}
